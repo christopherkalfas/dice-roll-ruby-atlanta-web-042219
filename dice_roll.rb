@@ -3,7 +3,7 @@
 # Feel free to google "how to generate a random number in ruby"
 
 def roll
-  array_dice= rand[1..6]
+  array_dice= 
   
   return array_dice
 end
